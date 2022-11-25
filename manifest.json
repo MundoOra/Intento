@@ -1,0 +1,17 @@
+{
+    "name": "intento",
+    "short_name": "intento",
+    "theme_color": "#D03CF1",
+    "background_color": "#D03CF1",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./icono.jpg",
+            "type": "image/jpg",
+            "sizes": "512x512"
+        }
+    ]
+}
